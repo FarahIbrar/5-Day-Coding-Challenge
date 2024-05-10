@@ -1,0 +1,69 @@
+body {
+    font-family: Arial;
+    color: #778899; /* Change font color to a lighter shade of grey */
+}
+
+h1 {
+    font-size: 300%;
+    font-weight: bold; /* Make the heading thicker */
+    color: #E9967A; /* Set heading color */
+    text-transform: uppercase; /* Convert heading to all capitals */
+    margin-bottom: 5px; /* Reduced margin between the picture and title heading */
+}
+
+h2 {
+    color: #E9967A; /* Set heading color */
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+
+img {
+    width: 100%; /* Bring the image back to its original size */
+}
+
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 20px; /* Reduced bottom margin for the copyright section */
+    background-color: #F4B89F; /* Change footer background color to Dark Bubblegum Pink */
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#container {
+    width: 60%;
+    margin: auto;
+    background-color: white; /* Set container background color to white */
+}
+
+#ingredients {
+    margin-bottom: 10px; /* Increased margin between the Ingredients and Preparation sections */
+}
+
+@media screen and (max-width: 768px) {
+    #container {
+        width: 90%;    
+    }
+    
+    h1 {
+        font-size: 200%;    
+    }
+}
+
+/* New hover styles for headings */
+#ingredients:hover h2,
+#preparation:hover h2 {
+    font-size: 190%;
+}
+
+/* New hover styles for icons */
+#ingredients:hover i,
+#preparation:hover i {
+    font-size: 190%;
+}

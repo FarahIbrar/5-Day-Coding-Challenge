@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="author" content="Farah Ibrar">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <!-- Add your recipe title here -->
+  <title>Tea Recipe</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
+  <link href="index.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="My webpage.css">
+</head>
+<body>
+  <!-- Add an outer container -->
+  <div id="container">
+    <header>
+      <h1>How to make Tea</h1> <!-- First title -->
+      <!-- Add the image here -->
+      <img src="https://i.imgur.com/paOHQnl.png" alt="A perfect cup of tea">
+      <p>At the very least, tea is a flavourful way of getting enough fluid into your body each day.
+        On top of that, studies have shown teas can help protect your teeth and your heart</p>
+    </header>
+    
+    <section id="ingredients" onmouseover="ingredientsHover()" onmouseout="ingredientsNormal()">
+      <h2 id="ingredientsHeading">Ingredients <i id="ingredientsIcon" class="fa fa-coffee" aria-hidden="true"></i> </h2>
+      <ul>
+        <li>Tea Bag</li>
+        <li>Water</li>
+        <li>Milk - Dairy/Plant based (Optional)</li>
+        <li>Sugar/Honey (Optional)</li>
+      </ul>
+    </section>
+    
+    <section id="preparation" onmouseover="preparationHover()" onmouseout="preparationNormal()">
+      <h2 id="preparationHeading">Preparation <i id="preparationIcon" class="fa fa-check-circle" aria-hidden="true"></i> </h2>
+      <ol>
+        <li>Select a high-quality loose leaf tea or tea bags depending on your preference. Common options include black tea, green tea, white tea, oolong tea, or herbal tea blends.</li>
+        <li>Heat fresh, cold water in a kettle. The ideal temperature varies depending on the type of tea:
+          <ul>
+            <li>Black tea: Boiling water (100°C/212°F)</li>
+            <li>Green tea: Slightly cooler water (around 80-85°C/176-185°F)</li>
+            <li>White tea: Even cooler water (around 70-80°C/158-176°F)</li>
+            <li>Oolong tea: Hotter water (around 85-90°C/185-194°F)</li>
+            <li>Herbal tea: Boiling water</li>
+          </ul>
+        </li>
+        <li>Pour a small amount of hot water into your teapot or cup to preheat it. This helps maintain the temperature of the brewed tea.</li>
+        <li>For each cup of tea, use approximately one teaspoon (2-3 grams) of loose leaf tea or one tea bag.</li>
+        <li>Pour the hot water over the tea leaves or tea bag in your preheated vessel. Let the tea steep for the recommended time:
+          <ul>
+            <li>Black tea: 3-5 minutes</li>
+            <li>Green tea: 2-3 minutes</li>
+            <li>White tea: 4-5 minutes</li>
+            <li>Oolong tea: 4-7 minutes</li>
+            <li>Herbal tea: 5-7 minutes</li>
+          </ul>
+        </li>
+        <li>Cover the teapot or cup with a lid or saucer to retain the heat and aroma. Allow the tea to infuse fully during the steeping process.</li>
+        <li>After the appropriate steeping time, remove the tea leaves or tea bag from the water. If using loose leaf tea, you can use a strainer to catch the leaves as you pour.</li>
+        <li>Stir well.</li>
+        <li>Pour the brewed tea into your cup and enjoy! You can drink it as is or add sweeteners, milk, lemon, or other flavourings according to your preference.</li>
+      </ol>
+    </section>
+    
+    <footer>
+      <p>Copyright Me 2024</p> <!-- Increased bottom margin to make it slightly bigger -->
+    </footer>
+  </div>
+
+  <script>
+    // Ingredients hover function
+    function ingredientsHover() {
+      document.getElementById("ingredientsHeading").style.fontSize = "190%";
+      document.getElementById("ingredientsIcon").style.fontSize = "190%";
+    }
+
+// Ingredients normal function
+function ingredientsNormal() {
+  document.getElementById("ingredientsHeading").style.fontSize = "18px"; // Set the original font size explicitly
+  document.getElementById("ingredientsIcon").style.fontSize = "18px"; // Set the original font size explicitly
+}
+
+    // Preparation hover function
+    function preparationHover() {
+      document.getElementById("preparationHeading").style.fontSize = "190%";
+      document.getElementById("preparationIcon").style.fontSize = "190%";
+    }
+
+// Preparation normal function
+function preparationNormal() {
+  document.getElementById("preparationHeading").style.fontSize = "18px"; // Set the original font size explicitly
+  document.getElementById("preparationIcon").style.fontSize = "18px"; // Set the original font size explicitly
+}
+  </script>
+</body>
+</html>
