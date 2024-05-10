@@ -24,20 +24,23 @@ I embarked on this coding adventure with enthusiasm, eager to explore the intric
 
 ## Motivation
 
-Completing the 5-Day Coding Challenge has been a significant milestone in my journey as a technologist. I am grateful for the opportunity to learn, grow, and connect with like-minded individuals in the coding community.
+Completing the 5-Day Coding Challenge has been a significant milestone in my journey as a technologist. I love coding and am always eager to explore its diverse applications. The opportunity to learn, grow, and connect with like-minded individuals in the coding community motivated me to participate. I am passionate about discovering how coding can be utilized in various ways, and this challenge was an exciting opportunity to further my exploration.
 
 ## Key Features
 
-- **Responsive Design:** Ensures optimal viewing experience across various devices, prioritizing accessibility and user engagement.
-- **Interactive Elements:** Incorporates hover effects on headings and icons to enhance interactivity and provide a dynamic browsing experience.
-- **Accessibility:** Prioritizes clean and organized HTML code for compatibility with assistive technologies.
+- **Responsive Design:** Uses HTML, CSS, and JavaScript to ensure the website adapts smoothly to various screen sizes, enhancing user experience and engagement.
+- **Interactive Elements:** Incorporates CSS and JavaScript to create hover effects on headings and icons to enhance interactivity and provide a dynamic browsing experience.
+- **Accessibility:** Prioritizes clean and organized HTML code and semantic markup to ensure compatibility with assistive technologies, making the website accessible to all users.
 - **Optimization:** Applies optimization techniques to improve page loading speed and performance, enhancing user satisfaction and search engine visibility.
 
 ## Getting Started
 
-To view the Tea Recipe Webpage and explore the code, simply clone this repository to your local machine:
-git clone https://github.com/FarahIbrar/5-Day-Coding-Challenge.git
+To view the Tea Recipe Webpage and explore the code, simply follow these steps:
 
+1. **Clone the Repository:** Clone this repository to your local machine by running the following command in your terminal: https://github.com/FarahIbrar/5-Day-Coding-Challenge.git
+
+4. **Open the Webpage:** Once the repository is cloned, navigate to the project directory and open the My webpage.html file in your preferred web browser to view the Tea Recipe Webpage.
+You should be abke to view it on Chrome without any restriction, however, if it doesn't work then you can remove the VSCODE line and run it. It should work. 
 
 ## Usage
 
