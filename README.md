@@ -40,7 +40,7 @@ To view the Tea Recipe Webpage and explore the code, simply follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine by running the following command in your terminal: https://github.com/FarahIbrar/5-Day-Coding-Challenge.git
 
 4. **Open the Webpage:** Once the repository is cloned, navigate to the project directory and open the My webpage.html file in your preferred web browser to view the Tea Recipe Webpage.
-You should be abke to view it on Chrome without any restriction, however, if it doesn't work then you can remove the VSCODE line and run it. It should work. 
+You should be able to view it on Chrome without any restriction, however, if it doesn't work then you can remove the VSCODE line and run it. It should work. 
 
 ## Usage
 
