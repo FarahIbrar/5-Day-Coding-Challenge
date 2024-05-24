@@ -47,6 +47,7 @@ You should be able to view it on Chrome without any restriction as well as on VS
 Here's how the Tea Recipe webpage looks like:
 
 ![Tea Recipe Webpage Preview](https://github.com/FarahIbrar/5-Day-Coding-Challenge/assets/168878908/e7a13728-e93b-4b93-92d0-0aef75ae5e33)
+[Watch the video](https://github.com/FarahIbrar/5-Day-Coding-Challenge/releases/download/Videos/How.to.Make.Tea.Webpage.mov)
 
 ## Usage
 
