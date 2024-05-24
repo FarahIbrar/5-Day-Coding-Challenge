@@ -1,6 +1,6 @@
 # Tea Recipe Webpage
 
-Welcome to the Tea Recipe Webpage repository! This project documents my journey through the Code Institute's 5-Day Challenge, where I created an engaging webpage teaching "How to make tea?" using HTML, CSS, and JavaScript. In addition to tackling the challenge prompts, I seized the opportunity to develop my own unique webpage as part of the challenge.
+Welcome to the Tea Recipe Webpage repository! This project documents my journey through the Code Institute's 5-Day Challenge, where I created an engaging webpage teaching "How to make tea?" using HTML, CSS, and JavaScript. In addition to tackling the challenge prompts, I seized the opportunity to develop my own unique webpage on the same topic as part of the challenge.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ Welcome to the Tea Recipe Webpage repository! This project documents my journey 
 - [Motivation](#motivation)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
+- [Tea Recipe Webpage Preview](#tea-recipe-webpage-preview)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Future Aspirations](#future-aspirations)
@@ -40,7 +41,12 @@ To view the Tea Recipe Webpage and explore the code, simply follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine by running the following command in your terminal: https://github.com/FarahIbrar/5-Day-Coding-Challenge.git
 
 4. **Open the Webpage:** Once the repository is cloned, navigate to the project directory and open the My webpage.html file in your preferred web browser to view the Tea Recipe Webpage.
-You should be able to view it on Chrome without any restriction, however, if it doesn't work then you can remove the VSCODE line and run it. It should work. 
+You should be able to view it on Chrome without any restriction as well as on VSCODE with any required extension. However, if it doesn't work on any other browser/applications than VSCODE, you can remove the VSCODE line and run it. This should solve the issue and make it work. 
+
+## Tea Recipe Webpage Preview
+Here's how the Tea Recipe webpage looks like:
+
+![Tea Recipe Webpage Preview](https://github.com/FarahIbrar/5-Day-Coding-Challenge/assets/168878908/e7a13728-e93b-4b93-92d0-0aef75ae5e33)
 
 ## Usage
 
