@@ -1,0 +1,4 @@
+# Ensure proper language detection for HTML, CSS, and JavaScript files
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
